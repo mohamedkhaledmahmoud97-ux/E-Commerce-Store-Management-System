@@ -19,7 +19,7 @@
 
 **👥 Team:** `Hyper Digi` &nbsp;|&nbsp; **📅 Academic Year:** `2025 – 2026` &nbsp;|&nbsp; **⏱️ Development Duration:** `45 Days`
 
-**🏛️ Affiliation:** Military Technical College (MTC) & Digital Pioneers Initiative (DEPI)
+**🏛️ Affiliation:** Military Technical College (MTC) & Digital Pioneers Initiative (Digilians)
 
 </div>
 

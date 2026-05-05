@@ -85,17 +85,17 @@
     </tr>
     <tr>
       <td align="center"><strong>🗄️ Database Engineer</strong></td>
-      <td align="center">Team — Hyper Digi</td>
+      <td align="center">Momen Esmat & Mahmoud Maher</td>
       <td>SQL Server schema design, DDL scripting, ETL pipeline, Business Queries</td>
     </tr>
     <tr>
       <td align="center"><strong>🤖 ML Engineer</strong></td>
-      <td align="center">Team — Hyper Digi</td>
+      <td align="center">Youssef Al-Komi & Mohamed Khaled</td>
       <td>Orange DM pipeline construction, K-Means clustering, Random Forest classification</td>
     </tr>
     <tr>
       <td align="center"><strong>📊 BI Developer</strong></td>
-      <td align="center">Team — Hyper Digi</td>
+      <td align="center">Mohamad Eid & Youssef Al-Komi</td>
       <td>Power BI dashboard design, KPI tracking, live SQL connection orchestration</td>
     </tr>
   </tbody>
@@ -419,7 +419,7 @@ jupyter notebook "E-Commerce_Customer_Behavior_EDA_.ipynb"
 
 ## 📜 License & Academic Context
 
-This project was prepared in fulfillment of the **Data Mining Course Requirements** at the **Military Technical College (MTC)** under the **Digital Pioneers Initiative (DEPI)**, Academic Year 2025–2026.
+This project was prepared in fulfillment of the **Data Mining Course Requirements** at the **Military Technical College (MTC)** under the **Digital Pioneers Initiative (Digilians)**, Academic Year 2025–2026.
 
 > *All methodologies applied are consistent with industry-standard data engineering and analytics practices. The system architecture is designed to demonstrate readiness for professional deployment in real-world data-intensive organizational contexts.*
 
